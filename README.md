@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors-CLI
-Super basic Python program that uses CLI to play RPS
+This project will use the CLI to play Rock Paper Scissors versus a computer that randomly selects a hand to play.
